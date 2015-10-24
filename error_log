@@ -1,0 +1,218 @@
+[22-Jan-2015 15:52:12 America/Chicago] PHP Fatal error:  Call to undefined function get() in /home/godeals/public_html/4beta/application/controllers/api.php on line 104
+[22-Jan-2015 15:52:22 America/Chicago] PHP Fatal error:  Call to undefined function get() in /home/godeals/public_html/4beta/application/controllers/api.php on line 104
+[22-Jan-2015 15:52:36 America/Chicago] PHP Fatal error:  Call to undefined function get() in /home/godeals/public_html/4beta/application/controllers/api.php on line 104
+[22-Jan-2015 15:52:42 America/Chicago] PHP Fatal error:  Call to undefined function get() in /home/godeals/public_html/4beta/application/controllers/api.php on line 104
+[22-Jan-2015 15:53:08 America/Chicago] PHP Fatal error:  Call to undefined function get() in /home/godeals/public_html/4beta/application/controllers/api.php on line 104
+[22-Jan-2015 15:54:06 America/Chicago] PHP Fatal error:  Call to undefined method api_db::getDealsByPartner_get() in /home/godeals/public_html/4beta/application/controllers/api.php on line 104
+[22-Jan-2015 15:54:32 America/Chicago] PHP Fatal error:  Call to undefined function get() in /home/godeals/public_html/4beta/application/controllers/api.php on line 104
+[23-Jan-2015 12:37:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/godeals/public_html/4beta/application/models/api_db.php on line 73
+[23-Jan-2015 12:37:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/godeals/public_html/4beta/application/models/api_db.php on line 73
+[23-Jan-2015 12:38:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/godeals/public_html/4beta/application/models/api_db.php on line 73
+[23-Jan-2015 12:38:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/godeals/public_html/4beta/application/models/api_db.php on line 73
+[23-Jan-2015 12:38:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/godeals/public_html/4beta/application/models/api_db.php on line 73
+[23-Jan-2015 12:39:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/godeals/public_html/4beta/application/models/api_db.php on line 73
+[26-Jan-2015 11:14:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'rand' (T_STRING) in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 11:15:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'rand' (T_STRING) in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 11:15:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'rand' (T_STRING) in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 11:15:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'rand' (T_STRING) in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 11:15:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'rand' (T_STRING) in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 11:16:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 11:16:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 11:16:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 11:16:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 11:16:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 11:16:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 11:16:48 America/Chicago] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 11:17:08 America/Chicago] PHP Fatal error:  Function name must be a string in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 11:17:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 11:17:44 America/Chicago] PHP Fatal error:  Function name must be a string in /home/godeals/public_html/4beta/application/controllers/api.php on line 126
+[26-Jan-2015 16:02:32 America/Chicago] PHP Fatal error:  Call to a member function verifyEmail() on a non-object in /home/godeals/public_html/4beta/application/controllers/api.php on line 47
+[29-Jan-2015 11:03:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/godeals/public_html/4beta/application/controllers/api.php on line 86
+[29-Jan-2015 11:03:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/godeals/public_html/4beta/application/controllers/api.php on line 86
+[29-Jan-2015 11:16:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 86
+[29-Jan-2015 11:16:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 86
+[29-Jan-2015 11:16:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 86
+[29-Jan-2015 11:16:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 86
+[29-Jan-2015 11:17:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/godeals/public_html/4beta/application/controllers/api.php on line 89
+[29-Jan-2015 11:17:57 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 59
+[29-Jan-2015 11:19:02 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 59
+[29-Jan-2015 11:19:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 59
+[29-Jan-2015 11:19:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 59
+[29-Jan-2015 11:19:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 59
+[29-Jan-2015 11:19:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 59
+[29-Jan-2015 11:19:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 59
+[29-Jan-2015 11:19:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/godeals/public_html/4beta/application/controllers/api.php on line 89
+[29-Jan-2015 12:13:19 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/godeals/public_html/4beta/application/controllers/api.php on line 87
+[29-Jan-2015 12:13:52 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/godeals/public_html/4beta/application/controllers/api.php on line 87
+[29-Jan-2015 12:13:52 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/godeals/public_html/4beta/application/controllers/api.php on line 87
+[29-Jan-2015 12:13:56 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/godeals/public_html/4beta/application/controllers/api.php on line 90
+[29-Jan-2015 12:14:04 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/godeals/public_html/4beta/application/controllers/api.php on line 90
+[29-Jan-2015 12:14:12 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/godeals/public_html/4beta/application/controllers/api.php on line 90
+[29-Jan-2015 12:14:24 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/godeals/public_html/4beta/application/controllers/api.php on line 90
+[29-Jan-2015 12:14:44 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/godeals/public_html/4beta/application/controllers/api.php on line 90
+[29-Jan-2015 12:14:45 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/godeals/public_html/4beta/application/controllers/api.php on line 90
+[29-Jan-2015 12:14:46 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/godeals/public_html/4beta/application/controllers/api.php on line 90
+[29-Jan-2015 12:14:48 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/godeals/public_html/4beta/application/controllers/api.php on line 90
+[29-Jan-2015 12:14:58 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/godeals/public_html/4beta/application/controllers/api.php on line 90
+[29-Jan-2015 12:15:03 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/godeals/public_html/4beta/application/controllers/api.php on line 90
+[29-Jan-2015 12:26:22 America/Chicago] PHP Parse error:  syntax error, unexpected ''idCupon'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/godeals/public_html/4beta/application/controllers/api.php on line 105
+[29-Jan-2015 13:52:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:53:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:53:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:53:59 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:54:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:54:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:54:59 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:55:06 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:55:07 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:55:07 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:55:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:55:51 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:55:52 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:55:52 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:56:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 99
+[29-Jan-2015 13:57:00 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting function (T_FUNCTION) in /home/godeals/public_html/4beta/application/controllers/api.php on line 257
+[29-Jan-2015 13:57:25 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting function (T_FUNCTION) in /home/godeals/public_html/4beta/application/controllers/api.php on line 257
+[29-Jan-2015 14:05:51 America/Chicago] PHP Fatal error:  Call to undefined function getRandomCode() in /home/godeals/public_html/4beta/application/controllers/api.php on line 97
+[29-Jan-2015 14:07:48 America/Chicago] PHP Fatal error:  Call to undefined function getRandomCode() in /home/godeals/public_html/4beta/application/controllers/api.php on line 111
+[29-Jan-2015 14:15:35 America/Chicago] PHP Fatal error:  Call to undefined function getRandomCode() in /home/godeals/public_html/4beta/application/controllers/api.php on line 97
+[29-Jan-2015 14:17:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/godeals/public_html/4beta/application/controllers/api.php on line 258
+[29-Jan-2015 14:17:27 America/Chicago] PHP Fatal error:  Call to undefined function getRandomCode() in /home/godeals/public_html/4beta/application/controllers/api.php on line 97
+[29-Jan-2015 14:17:40 America/Chicago] PHP Fatal error:  Call to undefined function getRandomCode() in /home/godeals/public_html/4beta/application/controllers/api.php on line 97
+[29-Jan-2015 14:21:07 America/Chicago] PHP Fatal error:  Call to undefined function getRandomCode() in /home/godeals/public_html/4beta/application/controllers/api.php on line 97
+[29-Jan-2015 14:22:39 America/Chicago] PHP Fatal error:  Call to undefined function getRandomCode() in /home/godeals/public_html/4beta/application/controllers/api.php on line 97
+[29-Jan-2015 16:24:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$idCliente' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 110
+[29-Jan-2015 16:28:11 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/godeals/public_html/4beta/application/controllers/api.php on line 166
+[29-Jan-2015 16:28:29 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/godeals/public_html/4beta/application/controllers/api.php on line 166
+[03-Feb-2015 09:27:00 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 09:27:11 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 09:27:11 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 09:27:19 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 09:27:19 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 09:27:30 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 09:27:31 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 09:31:14 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 09:31:25 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 09:31:47 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 09:33:10 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 09:33:11 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 09:34:25 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 09:35:58 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 09:37:09 America/Chicago] PHP Fatal error:  Cannot redeclare api_db::getMyDeals() in /home/godeals/public_html/4beta/application/models/api_db.php on line 187
+[03-Feb-2015 11:04:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/godeals/public_html/4beta/application/controllers/api.php on line 249
+[03-Feb-2015 11:05:10 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/godeals/public_html/4beta/application/models/api_db.php on line 208
+[03-Feb-2015 11:05:12 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/godeals/public_html/4beta/application/models/api_db.php on line 208
+[11-Feb-2015 17:00:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/godeals/public_html/4beta/application/controllers/api.php on line 377
+[16-Feb-2015 10:54:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/godeals/public_html/4beta/application/models/api_db.php on line 285
+[16-Feb-2015 10:54:49 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/godeals/public_html/4beta/application/models/api_db.php on line 285
+[17-Feb-2015 16:01:08 America/Chicago] PHP Fatal error:  Call to undefined method api_db::getFilterCoupon() in /home/godeals/public_html/4beta/application/controllers/api.php on line 402
+[17-Feb-2015 16:04:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 400
+[17-Feb-2015 16:05:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 400
+[17-Feb-2015 16:06:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 400
+[17-Feb-2015 16:06:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 400
+[17-Feb-2015 16:06:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 400
+[17-Feb-2015 16:06:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 400
+[17-Feb-2015 16:06:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 400
+[17-Feb-2015 16:06:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 400
+[17-Feb-2015 16:06:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 400
+[17-Feb-2015 16:06:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 400
+[17-Feb-2015 16:06:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/godeals/public_html/4beta/application/controllers/api.php on line 400
+[18-Feb-2015 10:49:43 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 214
+[18-Feb-2015 10:50:02 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 214
+[18-Feb-2015 10:50:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 214
+[18-Feb-2015 10:50:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 214
+[18-Feb-2015 10:50:03 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 214
+[19-Feb-2015 15:16:56 America/Chicago] PHP Fatal error:  Call to undefined method api_db::getBeacons() in /home/godeals/public_html/4beta/application/controllers/api.php on line 399
+[19-Feb-2015 15:17:07 America/Chicago] PHP Fatal error:  Call to undefined method api_db::getBeacons() in /home/godeals/public_html/4beta/application/controllers/api.php on line 399
+[23-Feb-2015 16:57:07 America/Chicago] PHP Parse error:  syntax error, unexpected '$fecha' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 353
+[23-Feb-2015 16:58:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$fecha' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 355
+[24-Feb-2015 11:52:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:52:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:52:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:52:28 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:52:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:52:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:52:47 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:52:49 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:52:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:52:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:52:57 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:52:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:53:09 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:53:10 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:53:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:53:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:53:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:53:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:53:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:53:28 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:53:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:53:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:53:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:53:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:53:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 11:53:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/models/api_db.php on line 268
+[24-Feb-2015 14:07:06 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 224
+[24-Feb-2015 14:08:23 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 224
+[24-Feb-2015 14:08:39 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 224
+[24-Feb-2015 14:08:39 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 224
+[24-Feb-2015 14:08:39 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 224
+[24-Feb-2015 14:08:39 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 224
+[24-Feb-2015 14:08:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 224
+[24-Feb-2015 14:08:55 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 224
+[24-Feb-2015 14:08:55 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 224
+[24-Feb-2015 14:09:00 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 224
+[24-Feb-2015 14:09:01 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 224
+[24-Feb-2015 14:09:02 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 224
+[24-Feb-2015 14:09:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[24-Feb-2015 14:09:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[24-Feb-2015 14:09:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[24-Feb-2015 14:09:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[24-Feb-2015 14:09:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[24-Feb-2015 14:09:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[24-Feb-2015 14:09:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[24-Feb-2015 14:09:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[24-Feb-2015 14:09:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[24-Feb-2015 14:09:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[24-Feb-2015 14:09:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[24-Feb-2015 14:09:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[24-Feb-2015 14:09:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[24-Feb-2015 14:09:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[24-Feb-2015 14:09:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/godeals/public_html/4beta/application/controllers/api.php on line 225
+[16-Apr-2015 18:05:05 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/godeals/public_html/admin/application/controllers/api.php on line 50
+[16-Apr-2015 18:05:18 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/godeals/public_html/admin/application/controllers/api.php on line 50
+[24-Apr-2015 12:31:18 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'lib/PHPExcel/PHPExcel.php' (include_path='.:/opt/php54/lib/php') in /home/godeals/public_html/admin/application/controllers/dashboard.php on line 79
+[24-Apr-2015 12:37:56 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'lib/PHPExcel/PHPExcel.php' (include_path='.:/opt/php54/lib/php') in /home/godeals/public_html/admin/application/controllers/dashboard.php on line 79
+[24-Apr-2015 12:38:41 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'lib/PHPExcel/PHPExcel.php' (include_path='.:/opt/php54/lib/php') in /home/godeals/public_html/admin/application/controllers/dashboard.php on line 79
+[24-Apr-2015 12:41:48 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'lib/PHPExcel/PHPExcel.php' (include_path='.:/opt/php54/lib/php') in /home/godeals/public_html/admin/application/controllers/dashboard.php on line 10
+[24-Apr-2015 12:41:55 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'lib/PHPExcel/PHPExcel.php' (include_path='.:/opt/php54/lib/php') in /home/godeals/public_html/admin/application/controllers/dashboard.php on line 10
+[24-Apr-2015 12:42:17 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'lib/PHPExcel/PHPExcel.php' (include_path='.:/opt/php54/lib/php') in /home/godeals/public_html/admin/application/controllers/dashboard.php on line 12
+[24-Apr-2015 12:42:18 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'lib/PHPExcel/PHPExcel.php' (include_path='.:/opt/php54/lib/php') in /home/godeals/public_html/admin/application/controllers/dashboard.php on line 12
+[24-Apr-2015 12:44:01 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'lib/PHPExcel/PHPExcel.php' (include_path='.:/opt/php54/lib/php') in /home/godeals/public_html/admin/application/controllers/dashboard.php on line 12
+[24-Apr-2015 12:47:28 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/godeals/public_html/admin/application/controllers/PHPExcel/Autoloader.php' (include_path='.:/opt/php54/lib/php') in /home/godeals/public_html/admin/application/controllers/PHPExcel.php on line 32
+[28-Apr-2015 16:34:08 America/Chicago] PHP Fatal error:  Class 'PHPExcel_Writer_Excel2007_StringTable' not found in /home/godeals/public_html/admin/application/libraries/excel_pdf/PHPExcel/Writer/Excel2007.php on line 154
+[29-Apr-2015 18:18:31 America/Chicago] PHP Parse error:  syntax error, unexpected '/', expecting function (T_FUNCTION) in /home/godeals/public_html/admin/application/controllers/api.php on line 671
+[29-Apr-2015 18:18:31 America/Chicago] PHP Parse error:  syntax error, unexpected '/', expecting function (T_FUNCTION) in /home/godeals/public_html/admin/application/controllers/api.php on line 671
+[29-Apr-2015 18:18:31 America/Chicago] PHP Parse error:  syntax error, unexpected '/', expecting function (T_FUNCTION) in /home/godeals/public_html/admin/application/controllers/api.php on line 671
+[29-Apr-2015 18:18:31 America/Chicago] PHP Parse error:  syntax error, unexpected '/', expecting function (T_FUNCTION) in /home/godeals/public_html/admin/application/controllers/api.php on line 671
+[29-Apr-2015 18:18:31 America/Chicago] PHP Parse error:  syntax error, unexpected '/', expecting function (T_FUNCTION) in /home/godeals/public_html/admin/application/controllers/api.php on line 671
+[29-Apr-2015 18:19:41 America/Chicago] PHP Parse error:  syntax error, unexpected '/', expecting function (T_FUNCTION) in /home/godeals/public_html/admin/application/controllers/api.php on line 590
+[29-Apr-2015 18:19:41 America/Chicago] PHP Parse error:  syntax error, unexpected '/', expecting function (T_FUNCTION) in /home/godeals/public_html/admin/application/controllers/api.php on line 590
+[29-Apr-2015 18:19:41 America/Chicago] PHP Parse error:  syntax error, unexpected '/', expecting function (T_FUNCTION) in /home/godeals/public_html/admin/application/controllers/api.php on line 590
+[29-Apr-2015 18:19:41 America/Chicago] PHP Parse error:  syntax error, unexpected '/', expecting function (T_FUNCTION) in /home/godeals/public_html/admin/application/controllers/api.php on line 590
+[29-Apr-2015 18:19:41 America/Chicago] PHP Parse error:  syntax error, unexpected '/', expecting function (T_FUNCTION) in /home/godeals/public_html/admin/application/controllers/api.php on line 590
+[30-Apr-2015 18:23:50 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/godeals/public_html/admin/application/controllers/deals.php on line 115
+[15-May-2015 18:03:53 America/Chicago] PHP Fatal error:  Call to undefined function registro() in /home/godeals/public_html/admin/application/controllers/preregistro.php on line 38
+[15-May-2015 18:04:02 America/Chicago] PHP Fatal error:  Call to undefined function registro() in /home/godeals/public_html/admin/application/controllers/preregistro.php on line 38
+[19-Aug-2015 16:02:41 America/Chicago] PHP Fatal error:  Call to undefined method Api::getIdCityOfUSer() in /home/godeals/public_html/admin/application/controllers/api.php on line 235
+[19-Aug-2015 16:13:11 America/Chicago] PHP Fatal error:  Call to undefined method Api::getIdCityOfUSer() in /home/godeals/public_html/admin/application/controllers/api.php on line 235
+[19-Aug-2015 16:15:30 America/Chicago] PHP Fatal error:  Call to undefined method Api::getIdCityOfUSer() in /home/godeals/public_html/admin/application/controllers/api.php on line 235
+[19-Aug-2015 16:16:02 America/Chicago] PHP Fatal error:  Call to undefined method Api::getIdCityOfUSer() in /home/godeals/public_html/admin/application/controllers/api.php on line 235
+[19-Aug-2015 17:37:42 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting '&' or variable (T_VARIABLE) in /home/godeals/public_html/admin/application/models/api_db.php on line 262
+[19-Aug-2015 17:37:42 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting '&' or variable (T_VARIABLE) in /home/godeals/public_html/admin/application/models/api_db.php on line 262
+[19-Aug-2015 17:37:42 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting '&' or variable (T_VARIABLE) in /home/godeals/public_html/admin/application/models/api_db.php on line 262
+[19-Aug-2015 17:37:42 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting '&' or variable (T_VARIABLE) in /home/godeals/public_html/admin/application/models/api_db.php on line 262
+[19-Aug-2015 17:37:42 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting '&' or variable (T_VARIABLE) in /home/godeals/public_html/admin/application/models/api_db.php on line 262
+[19-Aug-2015 17:37:42 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting '&' or variable (T_VARIABLE) in /home/godeals/public_html/admin/application/models/api_db.php on line 262
+[19-Aug-2015 17:38:17 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting '&' or variable (T_VARIABLE) in /home/godeals/public_html/admin/application/models/api_db.php on line 262
+[20-Aug-2015 13:59:32 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/godeals/public_html/admin/application/models/api_db.php on line 120

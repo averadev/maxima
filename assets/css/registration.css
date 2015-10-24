@@ -1,0 +1,55 @@
+
+.mainContent{
+    min-width: 650px !important;
+}
+
+.formRegistro{
+    width: 100%;
+    position: absolute;
+    top: 5%;
+    left: 0;
+}
+
+label{
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#btnSend{
+    cursor: pointer;
+}
+
+.rowRedes{
+    width: 95%;
+    position: absolute;
+    top: 5%;
+    left: 0;
+}
+
+.rowRedes img{
+    float: right;
+    margin-left: 10px;
+}
+
+.rowTiendas{
+    width: 95%;
+    position: absolute;
+    top: 5%;
+    left: 0;
+}
+
+.rowTiendas img{
+    float: right;
+}
+
+.redBorder{
+    border:4px solid red !important;
+}
+
+input{
+    -moz-border-radius: 5px; /* Firefox */
+    -webkit-border-radius: 5px; /* Safari, Chrome */
+    -khtml-border-radius: 5px; /* KHTML */
+    border-radius: 5px; /* CSS3 */
+}
